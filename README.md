@@ -22,3 +22,5 @@ run:
 	docker run -it -p 8888:8888 $(appname)
 ```
 
+2. Open the tsne-kmeans.ipynb file and run the notebook
+
