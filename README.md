@@ -5,7 +5,7 @@ This dataset contains a list of loan application from small businesses and how T
 
 ![5](https://user-images.githubusercontent.com/32384910/141666703-abab0288-27dc-4c17-bc96-1bf8dc558c83.png)
 
-Also, an anomaly detection model was built on top of the Kmeans cluster to quickly identify extreme values. This can be extremely useful for Financial instutions and lenders who want to quickly identify high networth loan application. 
+Also, an anomaly detection model was built on top of the Kmeans cluster to quickly identify extreme values. This can be extremely useful for Financial instutions and lenders who want to quickly identify high networth loan applications. 
 
 ***A 3D plot of the anomaly detection system is seen below:***
 
