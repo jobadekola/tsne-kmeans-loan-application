@@ -12,7 +12,7 @@ To run this Pycaret app, use the Makefile command to first:
 
 1. Build a docker image of a jupyter notebook that has pycaret pre-installed in it.
 
-Use these commands to build and run the docker container:
+***Use these commands to build and run the docker container:***
 
 ```
 build:
