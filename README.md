@@ -8,7 +8,7 @@ Also an anomaly detection model was built on top of the Kmeans cluster to quickl
 
 ![4](https://user-images.githubusercontent.com/32384910/141665751-30800d67-8e07-4614-9e06-642b7da3b731.png)
 
-***To run this Pycaret app, use the Makefile command to first:***
+***To run this Pycaret app, use the Makefile command to:***
 
 1. Build a docker image of a jupyter notebook that has pycaret pre-installed in it.
 
