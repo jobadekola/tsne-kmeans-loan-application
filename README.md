@@ -16,6 +16,8 @@ Use these commands to build and run the docker container:
 
 `build:
 	docker build -t $(appname) .
+	
+	
 run:
 	docker run -it -p 8888:8888 $(appname)
 `
