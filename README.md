@@ -2,7 +2,8 @@
 This dataset contains a list of loan application from small businesses and how TSNE and Kmeans was used to visualize relationship between each application.
 
 ***Please see cluster plot using TSNE below:***
-<img width="823" alt="Screen Shot 2021-10-09 at 2 25 58 pm" src="https://user-images.githubusercontent.com/32384910/136642570-573a7eae-2c56-492f-a2ac-cdc8781cb2ff.png">
+
+![5](https://user-images.githubusercontent.com/32384910/141666703-abab0288-27dc-4c17-bc96-1bf8dc558c83.png)
 
 Also an anomaly detection model was built on top of the Kmeans cluster to quickly identify extreme values. This can be extremely useful for Financial instutions and lenders who want to quickly identify high networth looan application. 
 
