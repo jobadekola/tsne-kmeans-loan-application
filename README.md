@@ -14,7 +14,8 @@ To run this Pycaret app, use the Makefile command to first:
 
 Use these commands to build and run the docker container:
 
-build:
+`build:
 	docker build -t $(appname) .
 run:
 	docker run -it -p 8888:8888 $(appname)
+`
