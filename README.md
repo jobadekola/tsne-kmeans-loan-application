@@ -1,5 +1,5 @@
 # tsne-kmeans-loan-application
-This dataset contains a list of loan application from small businesses and how TSNE and Kmeans (Unspervised machine learning alogrithms) were used to visualize relationship between each categories of loan application.
+This dataset contains a list of loan application from small businesses and how TSNE and Kmeans (Unspervised machine learning alogrithms) were used to visualize the relationship between each category of loan application.
 
 ***Please see cluster plot using TSNE below:***
 
